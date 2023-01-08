@@ -1,0 +1,4 @@
+Student ID: EEE2222
+Name: Ryan Johnson
+Marks in Physics: 98% 
+Grade obtained: A 
